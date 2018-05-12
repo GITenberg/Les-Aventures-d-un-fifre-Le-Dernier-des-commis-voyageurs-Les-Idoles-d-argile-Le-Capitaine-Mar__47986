@@ -1,10 +1,16 @@
 _repo: Les-Aventures-d-un-fifre-Le-Dernier-des-commis-voyageurs-Les-Idoles-d-argile-Le-Capitaine-Mar__47986
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47986-h/images/cover.jpg
 creator:
   author:
     agent_name: Reybaud, Louis
     gutenberg_agent_id: '44021'
     url: http://www.gutenberg.org/2009/agents/44021
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47986#Les-Aventures-d-un-fifre-Le-Dernier-des-commis-voyageurs-Les-Idoles-d-argile-Le-Capitaine-Mar_
 gutenberg_bookshelf: FR Nouvelles
 gutenberg_issued: '2015-01-16'
 gutenberg_type: Text
