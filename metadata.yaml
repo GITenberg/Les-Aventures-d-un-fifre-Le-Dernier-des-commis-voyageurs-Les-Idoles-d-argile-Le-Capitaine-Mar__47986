@@ -20,6 +20,8 @@ language: fr
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Les Aventures d''un fifre.
 
   Le Dernier des commis voyageurs. Les Idoles d''argile. Le
